@@ -1,0 +1,29 @@
+
+ol.listaGeneral{
+    list-style-type: circle;
+
+
+}
+
+ol.listaNumero{
+    list-style-type: decimal;
+
+
+}
+
+ol.listaRomana{
+    list-style-type: upper-roman;
+
+
+}
+
+
+
+ol.listaLetras{
+    list-style-type:lower-latin;
+
+
+}
+
+
+
